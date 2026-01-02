@@ -1,0 +1,7 @@
+{
+  "name": "HADIRKU 4KRO-2",
+  "description": "A web application for tracking student attendance using QR codes. Teachers can manage students, generate unique QR codes for each student, and take attendance by scanning the codes with their device's camera. Attendance records can be viewed by date.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
